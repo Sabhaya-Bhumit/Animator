@@ -1,5 +1,11 @@
 # BMI Calculator Animation
 
+<img src="https://user-images.githubusercontent.com/113710907/203996727-6ecacfb0-add5-4a19-b3dc-d079b0f762cd.mp4" width="400">
+
+
+
+
+
 A new Flutter project.
 
 ## Getting Started
